@@ -1,0 +1,4 @@
+abcd efdg 786455123 6100 /-null
+efcd (non-veg) 200 /-
+ghcd (veg) 300 /-
+abcd (veg) 100 /-
